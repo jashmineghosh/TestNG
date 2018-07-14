@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Loan Suite" duration-ms="59" started-at="2018-02-06T13:32:55Z" finished-at="2018-02-06T13:32:55Z">
+    <groups>
+    </groups>
+    <test name="Home" duration-ms="59" started-at="2018-02-06T13:32:55Z" finished-at="2018-02-06T13:32:55Z">
+      <class name="test.TestNGDay1">
+        <test-method status="PASS" signature="Demo()[pri:0, instance:test.TestNGDay1@58651fd0]" name="Demo" duration-ms="1" started-at="2018-02-06T19:02:55Z" finished-at="2018-02-06T19:02:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+      </class> <!-- test.TestNGDay1 -->
+      <class name="test.carloan1">
+        <test-method status="PASS" signature="flyingcar()[pri:0, instance:test.carloan1@62ee68d8]" name="flyingcar" duration-ms="1" started-at="2018-02-06T19:02:55Z" finished-at="2018-02-06T19:02:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flyingcar -->
+        <test-method status="PASS" signature="wondercar()[pri:0, instance:test.carloan1@62ee68d8]" name="wondercar" duration-ms="1" started-at="2018-02-06T19:02:55Z" finished-at="2018-02-06T19:02:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wondercar -->
+      </class> <!-- test.carloan1 -->
+      <class name="test.carloan">
+        <test-method status="PASS" signature="moblogin()[pri:0, instance:test.carloan@51081592]" name="moblogin" duration-ms="13" started-at="2018-02-06T19:02:55Z" finished-at="2018-02-06T19:02:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moblogin -->
+        <test-method status="PASS" signature="moblogout()[pri:0, instance:test.carloan@51081592]" name="moblogout" duration-ms="2" started-at="2018-02-06T19:02:55Z" finished-at="2018-02-06T19:02:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moblogout -->
+        <test-method status="PASS" signature="weblogin()[pri:0, instance:test.carloan@51081592]" name="weblogin" duration-ms="2" started-at="2018-02-06T19:02:55Z" finished-at="2018-02-06T19:02:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- weblogin -->
+      </class> <!-- test.carloan -->
+      <class name="test.homeloan">
+        <test-method status="PASS" signature="hmoblogin()[pri:0, instance:test.homeloan@735b5592]" name="hmoblogin" duration-ms="1" started-at="2018-02-06T19:02:55Z" finished-at="2018-02-06T19:02:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hmoblogin -->
+        <test-method status="PASS" signature="hweblogin()[pri:0, instance:test.homeloan@735b5592]" name="hweblogin" duration-ms="1" started-at="2018-02-06T19:02:55Z" finished-at="2018-02-06T19:02:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hweblogin -->
+      </class> <!-- test.homeloan -->
+    </test> <!-- Home -->
+  </suite> <!-- Loan Suite -->
+</testng-results>
